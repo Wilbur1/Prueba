@@ -5,7 +5,7 @@ public class BodyMassIndex {
     private String name;
     private double height;
     private double weight;
-
+// Hola
     public BodyMassIndex(String newName, double newHeight, double newWeight) {
         name = newName;
         height = newHeight;
